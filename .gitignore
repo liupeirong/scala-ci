@@ -14,5 +14,11 @@ buildNumber.properties
 
 # scala
 *.class
+*.classpath
 *.jar
 *.log
+
+# vscode
+.project
+.settings
+.vscode
